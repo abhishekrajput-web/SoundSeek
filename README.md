@@ -1,5 +1,5 @@
 # Music Search App
-<h1 style="font-size:20px">Responsive music search app using react redux and swiper</h1>
+<h1 style="font-size:20px">Responsive music search app using react redux and swiper </h1>
 <p><a href="https://songs-search-app.netlify.app/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
