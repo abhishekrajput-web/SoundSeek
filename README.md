@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/ee18ec07-4170-4111-b07c-f9ad02e5b8fe
 
 <h2 style="margin-top:20px"> View some separate sections of website</h2>
 <div>
-<img style="margin-top:20px" src="https://i.imgur.com/dDJMW34.jpg">
+<img style="margin-top:20px" src="https://github.com/user-attachments/assets/da0964af-73c8-4840-ba2b-d85b3bbd6da0">
 <img style="margin-top:20px" src="https://i.imgur.com/sY2mLka.jpg">
 <img style="margin-top:20px" src="https://i.imgur.com/KzjLpMw.jpg">
 <img style="margin-top:20px" src="https://i.imgur.com/AMqy0t8.jpg">
