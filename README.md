@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/ee18ec07-4170-4111-b07c-f9ad02e5b8fe
  
  
 <h2 style="margin-top:20px;font-size:20px">Quick Start</h2>
-<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/music-search-app.git">https://github.com/abhishekrajput-web/music-search-app</a></p>
+<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/SoundSeek.git">https://github.com/abhishekrajput-web/SoundSeek</a></p>
 
 
 <h2 style="margin-top:20px;font-size:20px">Assests and images sources</h2>
